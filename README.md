@@ -25,7 +25,7 @@ NPN(Off)
     R[sub]C[/sub]: 0.013mV  
     C: 3.15V  
     B: 0.430mV  
-    E: 0.016mV 
+    E: 0.016mV  
   Currents:  
     C: 0.143uA  
     E: 0.000uA  
@@ -37,27 +37,27 @@ NPN(On)
     B: 0.700V  
     E: 170V  
   Currents:  
-    C: 2.62mA
-    E:
-    B:
+    C: 2.62mA  
+    E: 3.07mA  
+    B: 0.443mA  
 PNP(Off)  
   Voltages:  
-    R[sub]C[/sub]:
-    C:
-    B:
-    E:
+    R[sub]C[/sub]: 0.002 mV  
+    C: 1.30mV  
+    B: 4.47V  
+    E: 5.07V  
   Currents:  
-    C:
-    E:
-    B:
+    C: 0.000uA  
+    E: 0.000uA  
+    B: 0.000uA
 PNP(On)  
   Voltages:  
-    R[sub]C[/sub]:
-    C:
-    B:
-    E:
+    R[sub]C[/sub]: 2.19V  
+    C: 4.99V  
+    B: 4.34V  
+    E: 5.07V  
   Currents:  
-    C:
-    E:
-    B:
+    C: 6.68 mA  
+    E: 7.12mA  
+    B: 0.439mA  
 Art acknowledgement: [taag](http://patorjk.com/software/taag/)
