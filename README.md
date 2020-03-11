@@ -22,7 +22,7 @@ _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is p
 ```
 NPN(Off)  
   Voltages:  
-    R[sub]C[/sub]: 0.013mV  
+    R<sub>C</sub>: 0.013mV  
     C: 3.15V  
     B: 0.430mV  
     E: 0.016mV  
@@ -32,7 +32,7 @@ NPN(Off)
     B: 0.000uA  
 NPN(On)  
   Voltages:  
-    R[sub]C[/sub]: 0.857V  
+    R<sub>C</sub>: 0.857V  
     C: 1.67V  
     B: 0.700V  
     E: 170V  
@@ -42,7 +42,7 @@ NPN(On)
     B: 0.443mA  
 PNP(Off)  
   Voltages:  
-    R[sub]C[/sub]: 0.002 mV  
+    R<sub>C</sub>: 0.002 mV  
     C: 1.30mV  
     B: 4.47V  
     E: 5.07V  
@@ -52,7 +52,7 @@ PNP(Off)
     B: 0.000uA
 PNP(On)  
   Voltages:  
-    R[sub]C[/sub]: 2.19V  
+    R<sub>C</sub>: 2.19V  
     C: 4.99V  
     B: 4.34V  
     E: 5.07V  
