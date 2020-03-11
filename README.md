@@ -20,7 +20,7 @@ _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is p
  |______\__,_|_.__/  |_| \_|\___/ \__\___|_.__/ \___/ \___/|_|\_\
                                                                                                                       
 ```
-NPN(Off)
+NPN(Off)  
   Voltages:
     R[sub]C[/sub]:
     C:
