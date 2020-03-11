@@ -20,4 +20,47 @@ _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is p
  |______\__,_|_.__/  |_| \_|\___/ \__\___|_.__/ \___/ \___/|_|\_\
                                                                                                                       
 ```
+NPN(Off)
+  Voltages:
+    R[sub]C[/sub]:
+    C:
+    B:
+    E:
+  Currents:
+    C:
+    E:
+    B:
+    
+NPN(On)
+  Voltages:
+    R[sub]C[/sub]:
+    C:
+    B:
+    E:
+  Currents:
+    C:
+    E:
+    B:
+    
+PNP(Off)
+  Voltages:
+    R[sub]C[/sub]:
+    C:
+    B:
+    E:
+  Currents:
+    C:
+    E:
+    B:
+    
+PNP(On)
+  Voltages:
+    R[sub]C[/sub]:
+    C:
+    B:
+    E:
+  Currents:
+    C:
+    E:
+    B:
 Art acknowledgement: [taag](http://patorjk.com/software/taag/)
