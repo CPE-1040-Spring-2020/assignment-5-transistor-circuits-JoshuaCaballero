@@ -49,7 +49,7 @@ _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is p
   **Currents:**  
     C: 0.000uA  
     E: 0.000uA  
-    B: 0.000uA
+    B: 0.000uA  
 **PNP(On)  
   Voltages:**  
     R<sub>C</sub>: 2.19V  
